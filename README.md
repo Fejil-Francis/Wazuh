@@ -1,4 +1,26 @@
-# Wazuh
-Wazuh is a free, open-source security platform that helps monitor systems, detect threats, and protect against attacks. 
-Wazuh works like a SIEM (Security Information and Event Management) tool — collecting logs, checking for intrusions, monitoring files, and giving alerts through a dashboard.
+# 🛡️ Wazuh
+
+**Wazuh** is a free and open-source **security platform** that provides unified protection for endpoints, cloud workloads, and on-premises systems.  
+It acts as a **SIEM (Security Information and Event Management)** and **XDR (Extended Detection and Response)** solution, helping organizations detect threats, monitor activity, and maintain compliance.
+
 ---
+
+## 🚀 Features
+- 📊 **Log Data Analysis** – Collect and analyze security events from multiple sources  
+- 🕵️ **Intrusion Detection** – Detect malware, anomalies, and unauthorized activity  
+- 🔒 **File Integrity Monitoring (FIM)** – Watch for changes in sensitive files  
+- 👮 **Compliance Management** – Meet standards like PCI DSS, GDPR, HIPAA, etc.  
+- 🌐 **Cloud Security** – Monitor AWS, Azure, GCP environments  
+- 📡 **Centralized Dashboard** – Web-based interface for real-time visibility  
+
+---
+
+## 🖥️ Components
+- **Wazuh Manager** – Analyzes data and generates alerts  
+- **Wazuh Agent** – Installed on endpoints to collect logs and security events  
+- **Wazuh Indexer** – Stores and indexes security data  
+- **Wazuh Dashboard** – Web UI for visualization and monitoring  
+
+---
+
+
