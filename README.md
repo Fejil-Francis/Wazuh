@@ -30,4 +30,7 @@ Clone the Wazuh Docker repository:
 ```bash
 git clone https://github.com/wazuh/wazuh-docker.git -b v4.12.0
 ```
+Move to the **single-node** directory
+```bash
 cd wazuh-docker/single-node
+```
