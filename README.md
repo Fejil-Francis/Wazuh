@@ -23,4 +23,11 @@ It acts as a **SIEM (Security Information and Event Management)** and **XDR (Ext
 
 ---
 
+## 📦 Installation (Docker)
 
+Clone the Wazuh Docker repository:
+
+```bash
+git clone https://github.com/wazuh/wazuh-docker.git -b v4.12.0
+```
+cd wazuh-docker/single-node
