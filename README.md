@@ -34,3 +34,7 @@ Move to the **single-node** directory
 ```bash
 cd wazuh-docker/single-node
 ```
+We can also move to **multi-node** directory
+```bash
+cd wazuh-docker/multi-node
+```
