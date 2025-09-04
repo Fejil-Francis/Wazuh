@@ -23,7 +23,7 @@ It acts as a **SIEM (Security Information and Event Management)** and **XDR (Ext
 
 ---
 
-## 📦 Installation (Docker)
+## 📦 Installation 
 
 Clone the Wazuh Docker repository:
 
