@@ -38,3 +38,7 @@ We can also move to the **multi-node** directory
 ```bash
 cd wazuh-docker/multi-node
 ```
+We must provide certificates for each node to secure communication between them in the Wazuh stack.For certificate generations,
+```bash
+sudo docker-compose -f generate-indexer-certs.yml run --rm generator
+```
