@@ -30,7 +30,7 @@ Clone the Wazuh Docker repository:
 
 ```bash
 git clone https://github.com/wazuh/wazuh-docker.git -b v4.12.0
-```<img width="816" height="403" alt="docker" src="https://github.com/user-attachments/assets/b8b2e47b-d37c-49b3-9d7d-4b67f8b2dbe5" />
+```
 <img width="811" height="404" alt="git" src="https://github.com/user-attachments/assets/01caeabb-9116-48aa-9065-275c274fe832" />
 
 
