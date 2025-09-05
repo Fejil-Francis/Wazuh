@@ -23,13 +23,17 @@ It acts as a **SIEM (Security Information and Event Management)** and **XDR (Ext
 
 ---
 
+
 ## 📦 Installation 
 
 Clone the Wazuh Docker repository:
 
 ```bash
 git clone https://github.com/wazuh/wazuh-docker.git -b v4.12.0
-```
+```<img width="816" height="403" alt="docker" src="https://github.com/user-attachments/assets/b8b2e47b-d37c-49b3-9d7d-4b67f8b2dbe5" />
+<img width="811" height="404" alt="git" src="https://github.com/user-attachments/assets/01caeabb-9116-48aa-9065-275c274fe832" />
+
+
 Move to the **single-node** directory
 ```bash
 cd wazuh-docker/single-node
@@ -42,3 +46,4 @@ We must provide certificates for each node to secure communication between them 
 ```bash
 sudo docker-compose -f generate-indexer-certs.yml run --rm generator
 ```
+<img width="816" height="403" alt="docker" src="https://github.com/user-attachments/assets/c565b3ec-780e-4b8c-943d-32f9b03445f9" />
