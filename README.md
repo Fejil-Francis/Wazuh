@@ -47,6 +47,7 @@ We must provide certificates for each node to secure communication between them 
 sudo docker-compose -f generate-indexer-certs.yml run --rm generator
 ```
 <img width="816" height="403" alt="docker" src="https://github.com/user-attachments/assets/c565b3ec-780e-4b8c-943d-32f9b03445f9" />
+
 We will start the wazuh in background using command,
 ```bash
 sudo docker-compose up -d
