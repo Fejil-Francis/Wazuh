@@ -53,10 +53,13 @@ We will start the wazuh in background using command,
 sudo docker-compose up -d
 ```
 <img width="800" height="333" alt="up -d" src="https://github.com/user-attachments/assets/4286c298-3f6e-4360-9125-e975c3382174" />
+
 We can also start wazuh as foreground
 ```bash
-sudo docker-compose up -d
+sudo docker-compose up 
 ```
+<img width="816" height="486" alt="up" src="https://github.com/user-attachments/assets/b82c335d-0ff5-4875-8ec2-25923931b473" />
+
 
 ## The wazuh is now ready.
 Now open the browser and move to the following web address
