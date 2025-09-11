@@ -69,3 +69,25 @@ Now open the browser and move to the following web address
 ```bash
 https://<ip address>
 ```
+Sometime a warning will come
+<img width="1059" height="429" alt="advance" src="https://github.com/user-attachments/assets/01b3cbf4-88f8-4fcd-b178-153c061bd5ca" />
+
+Click on advanced and click accept the risk
+ and continue
+ <img width="977" height="533" alt="accept" src="https://github.com/user-attachments/assets/9254ae70-4a2d-4b1c-9737-b2699790103a" />
+
+The wazuh login page will open like following
+<img width="773" height="493" alt="login" src="https://github.com/user-attachments/assets/29cdea51-317e-42fe-a3ba-a274aab78d76" />
+
+The username and password are
+```bash
+username:admin
+password:SecretPassword
+```
+
+The wazuh page will take some time to load after login.
+
+The page similar to the following will arise
+<img width="1268" height="521" alt="wazu" src="https://github.com/user-attachments/assets/2117fe3f-e8e7-4483-9f7e-afca65e420ea" />
+
+
