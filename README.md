@@ -90,9 +90,6 @@ The wazuh page will take some time to load after login.
 The page similar to the following will arise
 <img width="1268" height="521" alt="wazu" src="https://github.com/user-attachments/assets/2117fe3f-e8e7-4483-9f7e-afca65e420ea" />
 
-Look for the docker images available.At present only wazuh images will be appeared
-```bash
-sudo docker images
-```
+Now the wazuh is implemented now and can check statuse of machine through wazuh.By deploying new agent new machine can be added. 
 
 
