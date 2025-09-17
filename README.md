@@ -33,7 +33,6 @@ git clone https://github.com/wazuh/wazuh-docker.git -b v4.12.0
 ```
 <img width="811" height="404" alt="git" src="https://github.com/user-attachments/assets/01caeabb-9116-48aa-9065-275c274fe832" />
 
-
 Move to the **single-node** directory
 ```bash
 cd wazuh-docker/single-node
@@ -44,9 +43,6 @@ cd wazuh-docker/multi-node
 ```
 We must provide certificates for each node to secure communication between them in the Wazuh stack.For certificate generations,
 Install docker-compose,if not installed
-```bash
-git clone https://github.com/wazuh/wazuh-docker.git -b v4.12.0
-```
 ```bash
 sudo apt install docker-compose
 ```
