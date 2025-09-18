@@ -60,7 +60,11 @@ We can also start wazuh as foreground
 ```bash
 sudo docker-compose up 
 ```
+For stopping we can use,
 
+```bash
+sudo docker-compose down 
+```
 When we use foreground,if terminal is closed the wazuh will automatically closed so its better to use background.If there arise such cases where background doesnt works use foreground
 
 
