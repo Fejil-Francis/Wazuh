@@ -95,5 +95,24 @@ The page similar to the following will arise
 <img width="1268" height="521" alt="wazu" src="https://github.com/user-attachments/assets/2117fe3f-e8e7-4483-9f7e-afca65e420ea" />
 
 Now the wazuh is implemented now and can check statuse of machine through wazuh.By deploying new agent new machine can be added. 
+After clicking deploy new agent new page arise,select the system specification and give an agent name.Then a command gets generated and paste it in terminal of the machine which want to be test.
+
+For example i test my ubuntu machine,by giving an agent name ubuntu-host
+
+<img width="1027" height="117" alt="ubu command" src="https://github.com/user-attachments/assets/99b78adb-89c4-49b5-835f-15f0ca551816" />
+
+Then I executed the above command in my ubuntu terminal,
+<img width="805" height="484" alt="ubuntu host" src="https://github.com/user-attachments/assets/5c9a9827-0eff-42d1-a72b-1584208a184a" />
+
+Next three commands will be below the command generated.
+
+<img width="324" height="111" alt="commands wazu" src="https://github.com/user-attachments/assets/5583bdea-0edf-4368-b72d-aa6da84ba905" />
+
+Then I executed above three commands in my ubuntu terminal,
+
+<img width="713" height="119" alt="ubuntu host2" src="https://github.com/user-attachments/assets/16f03546-adf6-41d4-b06b-6f19e263d6dc" />
+
+
+
 
 
