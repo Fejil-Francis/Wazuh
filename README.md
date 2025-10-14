@@ -108,7 +108,7 @@ Next three commands will be below the command generated.
 
 <img width="324" height="111" alt="commands wazu" src="https://github.com/user-attachments/assets/5583bdea-0edf-4368-b72d-aa6da84ba905" />
 
-Then I executed above three commands in my ubuntu terminal,
+Then execute above three commands in  ubuntu terminal,
 
 <img width="713" height="119" alt="ubuntu host2" src="https://github.com/user-attachments/assets/16f03546-adf6-41d4-b06b-6f19e263d6dc" />
 
