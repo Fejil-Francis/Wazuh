@@ -1,7 +1,7 @@
 # 🛡️ Wazuh
 
 **Wazuh** is a free and open-source **security platform** that provides unified protection for endpoints, cloud workloads, and on-premises systems.  
-It acts as a **SIEM (Security Information and Event Management)** and **XDR (Extended Detection and Response)** solution, helping organizations detect threats, monitor activity, and maintain compliance.
+It acts as a **SIEM (Security Information and Event Management)** and **XDR (Extended Detection and Response)** solution, helping organizations detect threats,detecting vulnerabilities,monitor activity, and maintain compliance.
 
 ---
 
