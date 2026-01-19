@@ -113,6 +113,8 @@ Then execute above three commands in  ubuntu terminal,
 <img width="713" height="119" alt="ubuntu host2" src="https://github.com/user-attachments/assets/16f03546-adf6-41d4-b06b-6f19e263d6dc" />
 
 
+Wazuh was successfully initiated on the Ubuntu system. Through this process, the security monitoring capabilities of Wazuh were observed, including threat detection, log analysis, and vulnerability assessment. The execution of these commands helped in understanding how Wazuh identifies potential security risks and provides actionable insights to strengthen system security. Overall, this activity demonstrated the effectiveness of Wazuh as a comprehensive security monitoring and vulnerability detection solution.
+
 
 
 
